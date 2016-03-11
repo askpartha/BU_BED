@@ -1,0 +1,5 @@
+TRUNCATE TABLE appl_trans_history;
+TRUNCATE TABLE bed_application;
+TRUNCATE TABLE cnf_merit_generation;
+TRUNCATE TABLE pmt_prcs_info;
+TRUNCATE TABLE pmt_upload_files;
